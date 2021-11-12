@@ -1,3 +1,3 @@
 # Retrofit - MVP (simple way)
 
-![]("/Diagram-RetrofitMVP.png")
+![]("https://github.com/utsmannn/binar-retrofit-mvp/blob/master/Diagram-RetrofitMVP.png?raw=true")
